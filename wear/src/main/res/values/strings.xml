@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WiZ Lights</string>
+    <string name="tile_label">WiZ Lights</string>
+    <string name="tile_description">Turn WiZ lights on/off and adjust them over local Wi-Fi</string>
+</resources>
